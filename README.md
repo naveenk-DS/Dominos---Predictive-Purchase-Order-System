@@ -51,7 +51,7 @@ Ingredient Data: Ingredient requirements for each pizza type (Pizza Type, Ingred
 Run Locally
 Clone the project
 
-  git clone https://github.com/Vijay6383/Dominos---Predictive-Purchase-Order-System.git
+  git clone https:[https://github.com/naveenash6/Dominos---Predictive-Purchase-Order-System.git]
 Install dependencies
 
   pip install prophet, statsmodels, scikit-learn, scipy, seaborn 
